@@ -1,0 +1,10 @@
+.DS_Store
+.gradle/
+gradle/
+build/
+out/
+ 
+
+# Editor directories and files
+.idea
+ 
